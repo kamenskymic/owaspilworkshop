@@ -1,0 +1,6 @@
+services:
+    juiceshop:
+        image: bkimminich/juice-shop
+        restart: unless-stopped
+        ports:
+          - 3050:3000
