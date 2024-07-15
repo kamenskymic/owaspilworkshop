@@ -1,2 +1,2 @@
 # owaspilworkshop
-Materials and setup for owasp IL workshop - Accurate and Scalable: web application bug hunting
+Setup for owasp IL workshop - Accurate and Scalable: web application bug hunting
