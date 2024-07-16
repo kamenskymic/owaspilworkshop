@@ -1,0 +1,22 @@
+id: exercise-1-template
+info:
+  name: exercise-1-template
+  author: bounce
+  severity: low
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}/$CHANGE_ME"
+    body:
+        "{$CHANGE_ME}"
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "stacktrace"
+      - type: status
+        status:
+          - $CHANGE_ME
