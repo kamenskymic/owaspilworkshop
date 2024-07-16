@@ -1,0 +1,8 @@
+exercise-1:
+https://semgrep.dev/playground/r/10UORJW/accurate_and_scalable_training.exercise-1-template
+
+exercise-2:
+https://semgrep.dev/playground/r/oqUg3GJ/accurate_and_scalable_training.try-it-yourself-1-template
+
+exercise-3:
+https://semgrep.dev/playground/r/9AUdG8Y/accurate_and_scalable_training.exercise-2-template
